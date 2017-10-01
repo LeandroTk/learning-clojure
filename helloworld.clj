@@ -1,1 +1,1 @@
-(printl "Hello" "World" "TK")
+(println "Hello" "World" "TK")
