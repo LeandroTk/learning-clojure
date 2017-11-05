@@ -25,3 +25,9 @@
   (reduce + args))
 
 (sum 1 2 3 4 5 6 7 8 9 10)
+
+; define function to concatenate strings
+(defn concatenate [& strings]
+  (str strings))
+
+(concatenate "Kazumi" "I" "Love" "You")
