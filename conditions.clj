@@ -8,3 +8,8 @@
     (println "Second")
   )
 )
+
+(if (or true false)
+  "it is true"
+  "it is false"
+)
