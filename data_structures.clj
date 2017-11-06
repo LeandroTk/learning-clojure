@@ -3,4 +3,5 @@ nil
 "a string"
 false
 ["a" "vector" "of" "strings"]
-{ :one 1 }
+{:one 1}
+#{:one :two :three :two}
